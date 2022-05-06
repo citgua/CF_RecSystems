@@ -1,4 +1,7 @@
 The following folder holds for 3 datasets used to train model. 
-* m1-latest-small: movies dataset from [Kaggle]() 
-* bookDataset: books dataset from [Kaggle](https://www.kaggle.com/code/philippsp/book-recommender-collaborative-filtering-shiny/report)
-* AmazonElectronics_Dataset: electronic products dataset from [Kaggle]() ( unable to load to folder due to large file)
+* m1-latest-small: movies dataset from Kaggle
+  link: 
+* bookDataset: books dataset from Kaggle 
+  link: https://www.kaggle.com/code/philippsp/book-recommender-collaborative-filtering-shiny/report
+* AmazonElectronics_Dataset: electronic products dataset from Kaggle (unable to load to folder due to large file)
+link: https://www.kaggle.com/code/saurav9786/recommender-system-using-amazon-reviews/data
