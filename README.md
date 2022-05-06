@@ -26,7 +26,7 @@ Then, we also created a function that could format the dataframe into the necess
 
 ### Problem Formulation
 Recommandation System model breakdown: 
-  * Input: x, y vectors for items and modified ratings
+  * Input: x, y vectors for [user,items] and modified [ratings]
   * Output: Probability that  find other items that those users or similar users also liked
 
 * Adam Optimizer used 
