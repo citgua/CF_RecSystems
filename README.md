@@ -67,7 +67,7 @@ Recommandation System model breakdown:
   * recmodel: recommandation model architecture
 
 * [book_logs in logs folder](https://github.com/citgua/CF_RecSystems/tree/main/logs/booklogs)
-  * Saved model at each epoch for Book dataset 
+  * Saved model at each epoch if loss improved from prev epoch for Book dataset 
 
 * [movies_logs in loss folder](https://github.com/citgua/CF_RecSystems/tree/main/logs)
   * Saved model at each epoch if loss improved from prev epoch for Movies dataset
