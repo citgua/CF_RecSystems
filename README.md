@@ -13,6 +13,7 @@ This repository holds an attempt to build a Recommendation system model using th
 ### Data  
 * Data:
   * ![pics](https://github.com/citgua/CF_RecSystems/blob/main/repopics/00712D0E-EA83-4D4D-BA2C-C131B71D0880.jpeg)
+  * [Datasets](https://github.com/citgua/CF_RecSystems/tree/main/datasets)
 
 * Preprocessing / Clean up:
   * In preparing the data, we created a function that takes in the directory of the file/ dataset and returns a dataframe.
