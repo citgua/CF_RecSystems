@@ -75,10 +75,10 @@ Recommandation System model breakdown:
 
 
 * [books_history.pkl](https://github.com/citgua/ACGAN_ASL/blob/main/asl_acgan_history.pkl)
-  * Saved history of losses at each epoch for Books Dataset
+  * Saved history of losses at each epoch for Books Dataset under log_losses
 
 * [movies_history.pkl](https://github.com/citgua/ACGAN_ASL/blob/main/asll_acgan_history.pkl)
-  * Saved history of losses at each epoch for Movie Dataset 
+  * Saved history of losses at each epoch for Movie Dataset under log_losses
 
 
 * [CFRC_BooksF.ipynb](https://github.com/citgua/CF_RecSystems/blob/main/CFRC_BooksF.ipynb)
