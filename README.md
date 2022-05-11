@@ -41,7 +41,7 @@ Recommandation System model breakdown:
 
 
 ### Performance Comparison
-* Losses at 5 epochs and then 10 epochs
+
 * Losses at 5 epochs and then 10 epochs - Movies
 
 ![100 Radom Generated Images at 15 epochs](https://github.com/citgua/CF_RecSystems/blob/main/repopics/129460AA-7F0A-448B-B715-9E609C983EE3.jpeg) 
